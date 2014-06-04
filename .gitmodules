@@ -1,0 +1,3 @@
+[submodule "src/Orchard.Web/Modules/Om.Orchard.SocialMetaTags"]
+	path = src/Orchard.Web/Modules/Om.Orchard.SocialMetaTags
+	url = https://github.com/bhavinbdoshi/Om.Orchard.SocialMetaTags.git
